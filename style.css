@@ -1,0 +1,19 @@
+h1 {
+    color: navy;
+    margin-left: 600px;
+    margin-top: 100px;
+    justify-content: center;
+  }
+
+  body {
+    background-color: lightblue;
+  }
+
+  .image {
+    margin-left: 325px;
+  }
+
+  h2 {
+      color:indigo;
+      margin-left: 700px;
+  }
